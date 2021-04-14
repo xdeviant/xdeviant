@@ -1,5 +1,4 @@
 ### Hello World!
-!(https://www.codewars.com/users/xdeviant/badges/large)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdeviant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdeviant)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
